@@ -1,3 +1,3 @@
-# Codewars
+## Codewars
 
-Codewars Questions & Solutions
+Codewars - Questions & Solutions
