@@ -1,3 +1,3 @@
 # Codewars
 
-Keeping track of my challenges on GitHub
+Codewars Questions & Solutions
