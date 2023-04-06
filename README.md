@@ -1,2 +1,3 @@
-# codewars
-Codewars
+# Codewars
+
+Keeping track of my challenges on GitHub
