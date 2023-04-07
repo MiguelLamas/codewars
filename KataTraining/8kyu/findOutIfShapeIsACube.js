@@ -1,5 +1,6 @@
 /*
-Instruction 
+Instruction - 8 kyu
+Find out whether the shape is a cube
 
 - To find the volume (centimeters cubed) of a cuboid you use the formula:
 
@@ -14,7 +15,8 @@ Instruction
 
 // Solution
 
-const cubeChecker = (volume, side) => volume === side ** 3 && side > 0 ? true : false;
+const cubeChecker = (volume, side) => 
+volume === side ** 3 && side > 0 ? true : false;
 
 // Tests 
 
